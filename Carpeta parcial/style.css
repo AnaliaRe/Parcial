@@ -1,0 +1,31 @@
+.parrafo{ 
+    text-size-adjust: 9px;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: none;
+    text-shadow: none;
+   
+}
+/*Encabezado*/
+.destacado{
+    background-color: rgb(54, 52, 52);
+    size: 20px;
+}
+
+
+h1{
+color: rgb(255, 255, 255);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+}
+
+h2{
+color: black;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+}
+#Citas{
+    color: rgb(0, 0, 0);
+    font-style: none;
+
+}
